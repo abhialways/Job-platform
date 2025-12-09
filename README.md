@@ -116,6 +116,12 @@ The application uses Socket.IO for real-time notifications:
 - Application rejections are sent to the applicant
 - Interview schedules are sent to the selected applicant
 
+## Live Demo
+
+You can view a live demo of this application at: [Job Portal Demo](https://abhialways.github.io/Job-platform/)
+
+*Note: The live demo may have limited functionality due to backend requirements. For full functionality, please run the application locally with a MySQL database.*
+
 ## License
 
 This project is for educational purposes only.
